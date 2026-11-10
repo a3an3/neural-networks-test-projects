@@ -11,9 +11,9 @@ Final grade for the module: 15/15 points.
 
 | Approach | Notebooks | Result |
 |---|---|---|
-| **CNN from scratch** | `Test1_CNN_From_Scratch`, `CNN_From_Scratch_Version_1/2`, `CNN_from_SCRATCH_Version_Jan` | [xx % accuracy] |
-| **CNN with dropout and learning rate tuning** | `CNN_Modell_Dropout_Lr` | [xx %] |
-| **Transfer learning (VGG16, PyTorch)** | `Dog_vs_Cat_transfer_pytorch_VGG16` | [xx %] |
+| **CNN from scratch** | `Test1_CNN_From_Scratch`, `CNN_From_Scratch_Version_1/2`, `CNN_from_SCRATCH_Version_Jan` | 65 % accuracy |
+| **CNN with dropout and learning rate tuning** | `CNN_Modell_Dropout_Lr` | 73 % |
+| **Transfer learning (VGG16, PyTorch)** | `Dog_vs_Cat_transfer_pytorch_VGG16` | 83 % |
 
 The notebooks show how the model evolved step by step: from a first baseline over
 regularization (dropout) and learning rate tuning to transfer learning with a
