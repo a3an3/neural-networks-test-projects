@@ -38,7 +38,7 @@ All notebooks were written in **Google Colab**. Open one via
 
 ## Tech stack
 
-Python · PyTorch · torchvision (VGG16) · [Keras/TensorFlow for the CNN from scratch] · [fastai] · Jupyter / Google Colab
+Python · PyTorch · torchvision (VGG16) · Keras for the CNN from scratch · fastai · Jupyter / Google Colab
 
 ---
 
